@@ -48,3 +48,8 @@ footer{
     text-align: center;
     font-size: 30px;
 }
+.video{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+}
